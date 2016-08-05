@@ -1,0 +1,10 @@
+    MySQL CONNECTION
+    cmd:
+    
+java -jar C://Users//Joel//.qgis2//python//plugins//TemporalFieldGateway//TemporalFieldGateway.jar dbtype;MySQL,host;localhost,port;8889,database;BlueberrySensors,table;moisturedata,username;root,password;root
+
+    PostgreSQL CONNECTION
+    cmd:
+
+java -jar C://Users//Joel//.qgis2//python//plugins//TemporalFieldGateway//TemporalFieldGateway.jar dbtype;PostgreSQL,host;localhost,port;5432,database;blueberrysensors,table;moisturedata,username;joelw,password;999jbw"
+
